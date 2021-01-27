@@ -22,3 +22,9 @@ dist
 
 # Emacs temp files.
 *~
+
+# Virtual envs
+venv/
+
+# IDE files
+.idea/

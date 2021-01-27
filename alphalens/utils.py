@@ -301,7 +301,7 @@ def compute_forward_returns(factor,
         #
         # Find the period length, which will be the column name. We'll test
         # several entries in order to find out the most likely period length
-        # (in case the user passed inconsinstent data)
+        # (in case the user passed inconsistent data)
         #
         days_diffs = []
         for i in range(30):
